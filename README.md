@@ -32,8 +32,10 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=agu2055" />
     </div> 
     <br>
-<div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊 GitHub Stats </h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeseokKim9148&layout=compact&theme=dark&langs_count=8" />
-</div>
+    <div align= "center"> 
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊 GitHub Stats </h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=TaeseokKim9148&show_icons=true&theme=radical" />
+        <br><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeseokKim9148&layout=compact&theme=dark&langs_count=8" />
+    </div>
 </div>
