@@ -37,5 +37,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=TaeseokKim9148&show_icons=true&theme=radical" />
         <br><br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeseokKim9148&layout=compact&theme=dark&langs_count=8" />
+        <br><br>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=TaeseokKim9148&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&point=58A6FF" />
     </div>
 </div>
